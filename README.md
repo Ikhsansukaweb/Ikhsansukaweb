@@ -95,10 +95,10 @@ const isan = {
 </td>
 <td width="50%" valign="top">
 
-<h4 align="center">Portfolio</h4>
+<h4 align="center">portfolio-persona3</h4>
 <p align="center">
-  <a href="https://github.com/Ikhsansukaweb/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ikhsansukaweb&repo=Portfolio&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Ikhsansukaweb/portfolio-persona3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ikhsansukaweb&repo=portfolio-persona3&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
