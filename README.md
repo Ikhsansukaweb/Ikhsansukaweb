@@ -1,26 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=isan&fontSize=70&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Yogyakarta%2C%20Indonesia&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=isan&fontSize=70&fontAlignY=38&desc=Full-Stack%20Developer%20-%20Yogyakarta%2C%20Indonesia&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/Ikhsansukaweb">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;TypeScript+%7C+Next.js+%7C+Node.js;Flutter+%26+Mobile+Apps;Always+building+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;TypeScript+%7C+Next.js+%7C+Node.js;Flutter+and+Mobile+Apps;Always+building+something+new" alt="Typing SVG" />
 </a>
 
 </div>
 
 ---
 
-### 🧑‍💻 Tentang saya
+### Tentang saya
 
-- 🔭 Sedang mengerjakan **project web & bot** pribadi
-- 🌱 Belajar terus: **Next.js · TypeScript · Flutter**
-- 💬 Tanya saya soal **web dev, Node.js, atau Minecraft Bedrock bot**
-- 📍 Berbasis di **Yogyakarta, Indonesia**
-- ⚡ Fun fact: *suka ngulik hal-hal yang belum ada tutorialnya*
+- Sedang mengerjakan **project web & bot** pribadi
+- Belajar terus: **Next.js, TypeScript, Flutter**
+- Tanya saya soal **web dev, Node.js, atau Minecraft Bedrock bot**
+- Berbasis di **Yogyakarta, Indonesia**
+- Fun fact: *suka ngulik hal-hal yang belum ada tutorialnya*
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,express,tailwind,html,css,flutter,dart,git,github,linux,figma&perline=8" />
@@ -28,18 +28,18 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Deskripsi | Stack |
 |---------|-----------|-------|
-| 🎰 **[casino](https://github.com/Ikhsansukaweb/casino)** | Bot casino Minecraft Bedrock — command chat, 16 mini-games, sistem admin | JavaScript |
-| 🛒 **[skadesmart](https://github.com/Ikhsansukaweb/skadesmart)** | Aplikasi marketplace / e-commerce | TypeScript |
-| 🎬 **[isan](https://github.com/Ikhsansukaweb/isan)** | Platform streaming anime & film | TypeScript |
-| 🎨 **[Portfolio](https://github.com/Ikhsansukaweb/Portfolio)** | Website portofolio pribadi | JavaScript |
+| **[casino](https://github.com/Ikhsansukaweb/casino)** | Bot casino Minecraft Bedrock - command chat, 16 mini-games, sistem admin | JavaScript |
+| **[skadesmart](https://github.com/Ikhsansukaweb/skadesmart)** | Aplikasi marketplace / e-commerce | TypeScript |
+| **[isan](https://github.com/Ikhsansukaweb/isan)** | Platform streaming anime & film | TypeScript |
+| **[Portfolio](https://github.com/Ikhsansukaweb/Portfolio)** | Website portofolio pribadi | JavaScript |
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ikhsansukaweb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
@@ -52,7 +52,7 @@
 
 ---
 
-### 📫 Kontak
+### Kontak
 
 <p align="center">
   <a href="mailto:ikhsansetiawan711@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
